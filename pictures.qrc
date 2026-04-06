@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>schoolicon.png</file>
+        <file>scholcon.png</file>
+        <file>QQ20260310-124510.png</file>
+        <file>NEUlogo.png</file>
+    </qresource>
+</RCC>
